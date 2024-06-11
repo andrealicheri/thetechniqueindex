@@ -1,0 +1,334 @@
+[
+    {
+      "name": "Jab",
+      "videoID": "FSVcmMd9bR4",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Kizami-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Cross",
+      "videoID": "sK-6Ujp3KYY",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Gyako-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Lead Hook",
+      "videoID": "i3G3HsI1GGU",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Kizami-Kage-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Rear Hook",
+      "videoID": "MJmHnyBjC6s",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Kage-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Uppercut",
+      "videoID": "eBxn21FtqPg",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Age-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Overhand",
+      "videoID": "w4Q_G3UwBZE",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Lunge Punch",
+      "videoID": "OdwFBQ-kQog",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Oi-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Superman Punch",
+      "videoID": "SrxEe0Hxtyc",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Body Jab",
+      "videoID": "Xy54UGeUDyM",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Gedan-Kizami-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Switch Punch",
+      "videoID": "Vh_DXu-bThk",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Superman Jab",
+      "videoID": "G9ZiSbuwOCI",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Haymaker",
+      "videoID": "r_q5L4rWPiI",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Casting Punch",
+      "videoID": "JISgLclfX3c",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Backfist",
+      "videoID": "nou5xXzxBkI",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Uraken-Uchi",
+      "allowed": true
+    },
+    {
+      "name": "Bolo Punch",
+      "videoID": "Au3B8b9kE4s",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Liver Punch",
+      "videoID": "uXsOssBwLoA",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Gedan-Age-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Leopard Punch",
+      "videoID": "weyppYOzKsY",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Hiraken-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Rabbit Punch",
+      "videoID": "bKTD0wV3Cuw",
+      "tags": ["striking", "punch"],
+      "japaneseName": null,
+      "allowed": false
+    },
+    {
+      "name": "Spinning Backfist",
+      "videoID": "7Vn2NycQDJw",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Ushiro-Uraken-Uchi",
+      "allowed": true
+    },
+    {
+      "name": "Vertical Punch",
+      "videoID": "hk1WNsZFLag",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Tate-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "One Knuckle Punch",
+      "videoID": "B1_8uNdlGJY",
+      "tags": ["striking", "punch"],
+      "japaneseName": "Ippon-Ken-Tsuki",
+      "allowed": true
+    },
+    {
+      "name": "Front Kick",
+      "videoID": "rDAIlfTFDqU",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Mae-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Teep Kick",
+      "videoID": "vr2URWxmPt4",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Mae-Geri-Kekkomi",
+      "allowed": true
+    },
+    {
+      "name": "Axe Kick",
+      "videoID": "-CAhPCljvE8",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Otoshi-Kakato-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Crescent Kick",
+      "videoID": "t61DFDf_ZAQ",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Mikazuki-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Roundhouse Kick",
+      "videoID": "Bp_QVO7kYtg",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Mawashi-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Side Kick",
+      "videoID": "98boTtEjgfw",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Yoko-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Back Kick",
+      "videoID": "Kuq1H1Y-BCA",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Mae-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Question Mark Kick",
+      "videoID": "aH4Hv8vIfCY",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Calf Kick",
+      "videoID": "5KWhnR5sht8",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Oblique Kick",
+      "videoID": "6Lpf1vwr658",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Naname-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Knee Kick",
+      "videoID": "6P1jXi3cgsU",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Kansetsu-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Stomp Kick",
+      "videoID": "1MRKI9LACJM",
+      "tags": ["striking", "kick", "stomp"],
+      "japaneseName": "Fumakomi-Geri",
+      "allowed": false
+    },
+    {
+      "name": "Cartwheel Kick",
+      "videoID": "DlDsMJKlpW8",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Hook Kick",
+      "videoID": "qbc4fumt5s8",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Ura-Mawashi-Geri",
+      "allowed": true
+    },    {
+      "name": "Kyokushin Wheel Kick",
+      "videoID": "Uf5Cj4Ewzgg",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Mawashi-Kaiten-Geri",
+      "allowed": true
+    },    {
+      "name": "Switch Kick",
+      "videoID": "sHxvemn4ikQ",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },    {
+      "name": "Spinning Hook Kick",
+      "videoID": "Avr54VCNMXY",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Ushiro-Ura-Mawashi-Geri",
+      "allowed": true
+    },    {
+      "name": "Crane Kick",
+      "videoID": "vFVL81miTgQ",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Tobi-Mae-Geri",
+      "allowed": true
+    },    {
+      "name": "Sweep Kick",
+      "videoID": "AdJ4R0Q1qp4",
+      "tags": ["striking", "kick", "sweep"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Up Kick",
+      "videoID": "a7TSRnYVFdU",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Twist Kick",
+      "videoID": "AP8zvIr827Q",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Otoshi-Mawashi-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Brazilian Kick",
+      "videoID": "dUlUv0WhDcg",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Butterfly Kick",
+      "videoID": "psq3Nm-JHyQ",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Scorpion Kick",
+      "videoID": "ztQVrumCH6g",
+      "tags": ["striking", "kick"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Tornado Kick",
+      "videoID": "JrUeTiTAkWw",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Tobi-Ushiro-Mawashi-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Wheel Kick",
+      "videoID": "DvvxzOykTNQ",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Ushiro-Ura-Mawashi-Geri-Kekkomi",
+      "allowed": true
+    },
+    {
+      "name": "Toe Kick",
+      "videoID": "EULkMrAafQ0",
+      "tags": ["striking", "kick"],
+      "japaneseName": "Tsumasaki-Geri",
+      "allowed": true
+    }
+  ]
+  

@@ -1,0 +1,6 @@
+Here's a tag guideline:
+
+- striking: punch, kick, elbow, knee, headbutt, stomp, open-hand
+- wrestling: clinching, takedown, throw, pin, sweep
+- grappling: choke, lock, slicer, position
+- defense: guard, footwork, escape, turnover, head-movement, block

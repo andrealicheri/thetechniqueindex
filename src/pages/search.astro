@@ -1,0 +1,48 @@
+---
+// src/pages/search.astro
+
+import fs from "fs";
+import path from "path";
+import VideoCard from "../components/VideoCard.astro";
+import Layout from "../layouts/Layout.astro";
+
+// Get the search query from the URL
+const query = Astro.url.searchParams.get("query").toLowerCase();
+
+// Read the JSON file from the file system
+const filePath = path.resolve("./src/data/data.json");
+const jsonData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+
+// Filter the data based on the search query
+const filteredData = jsonData.filter(
+    (item) =>
+        item.name.toLowerCase().includes(query) ||
+        (item.japaneseName &&
+            item.japaneseName.toLowerCase().includes(query)) ||
+        item.tags.some((tag) => tag.toLowerCase().includes(query)),
+);
+---
+
+<Layout title={"Results for " + query}>
+    <main>
+        <h1 style="text-align: center;">Search results for "{query}"</h1>
+        <div id="grid">
+            {
+                filteredData.length > 0 ? (
+                    filteredData.map((data) => <VideoCard {...data} />)
+                ) : (
+                    <p>No videos found matching the search query "{query}".</p>
+                )
+            }
+        </div>
+    </main>
+</Layout>
+
+<style>
+    #grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 10px;
+        font-size: 1.2rem;
+    }
+</style>

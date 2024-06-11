@@ -1,0 +1,62 @@
+---
+// src/components/Navbar.astro
+---
+
+<nav>
+    <div class="left">
+        <a href="/" style="      text-decoration: none;
+        color: white;">🥊 TheTechniqueIndex</a>
+    </div>
+    <div class="right">
+      <a href="/about">ABOUT</a>
+      <a href="/tags/striking">STRIKING</a>
+      <a href="/tags/wrestling">WRESTLING</a>
+      <a href="/tags/grappling">GRAPPLING</a>
+      <form action="/search" method="get">
+        <input type="text" name="query" placeholder="Search..." required>
+        <button type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+  
+  <style>
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem;
+      color: white;
+    }
+    .left {
+      font-size: 1.5rem;
+      font-weight: bold;
+      
+    }
+    .right {
+      display: flex;
+      align-items: center;
+    }
+    .right a {
+      margin-right: 1rem;
+      text-decoration: none;
+      color: white;
+    }
+    .right form {
+      display: flex;
+      width: 20%;
+    }
+    .right input {
+      flex: 1;
+      padding: 0.5rem;
+      border: none;
+      border-radius: 4px 0 0 4px;
+    }
+    .right button {
+      padding: 0.5rem;
+      border: none;
+      border-radius: 0 4px 4px 0;
+      background-color: #555;
+      color: white;
+    }
+  </style>
+  

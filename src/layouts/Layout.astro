@@ -1,4 +1,6 @@
 ---
+import Navbar from '../components/Navbar.astro';
+
 interface Props {
 	title: string;
 }
@@ -17,6 +19,8 @@ const { title } = Astro.props;
 		<title>{title}</title>
 	</head>
 	<body>
+		<p hidden="true" aria-hidden>Successor to thekarateway.vercel.app. RIP.</p>
+		<Navbar />
 		<slot />
 	</body>
 </html>
@@ -36,6 +40,7 @@ const { title } = Astro.props;
 		font-family: system-ui, sans-serif;
 		background: #13151a;
 		background-size: 224px;
+		color: white;
 	}
 	code {
 		font-family:

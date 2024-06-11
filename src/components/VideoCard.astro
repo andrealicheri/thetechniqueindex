@@ -1,0 +1,62 @@
+---
+// VideoCard.astro
+
+const { name, videoID, tags, japaneseName, allowed } = Astro.props;
+
+---
+
+<div class="card" style={`background-color: #36454f`}>
+  <h2>{name} {japaneseName && <span id="japaneseName"> {japaneseName}</span>}</h2>
+  
+  
+  <div class="tags">
+    {tags.map(tag => (
+      <a href={`/tags/${tag}`} class="tag">{tag}</a>
+    ))}
+  </div>
+  
+  <p></p>
+  <div style="display: flex; width: 100%; justify-content: center;">
+	<iframe 
+		src={`https://youtube.com/embed/${videoID}`}  
+		frameborder = "0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+    loading="lazy"
+	></iframe>
+  </div>
+  
+  {allowed === false && <p><b><a href="/fouls">NOT ALLOWED</a> 🚫</b></p>}
+</div>
+
+<style>
+  .card {
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+	color: white;
+  }
+  .tags {
+    margin: 8px 0;
+  }
+  .tag {
+	background-color: gray;
+	padding: 5px;
+	border-radius: 8px;
+    margin-right: 8px;
+    text-decoration: none;
+  }
+
+  iframe {
+	width: 25vw;
+	height: 14vw;
+  }
+  a {
+	color: white;
+  }
+
+  #japaneseName {
+	color: gray;
+	font-size: 0.8rem;
+  }
+</style>
