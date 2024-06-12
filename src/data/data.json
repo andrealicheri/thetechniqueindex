@@ -329,6 +329,99 @@
       "tags": ["striking", "kick"],
       "japaneseName": "Tsumasaki-Geri",
       "allowed": true
+    },
+    {
+      "name": "Round Elbow",
+      "videoID": "sm-VOLSqkJo",
+      "tags": ["striking", "elbow"],
+      "japaneseName": "Mawashi-Empi-Uchi",
+      "allowed": true
+    },
+    {
+      "name": "Slash Elbow",
+      "videoID": "7yKXDJX5778",
+      "tags": ["striking", "elbow"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Downward Elbow",
+      "videoID": "cjii_POWOZY",
+      "tags": ["striking", "elbow"],
+      "japaneseName": "Otoshi-Empi-Uchi",
+      "allowed": false
+    },
+    {
+      "name": "Uppercut Elbow",
+      "videoID": "bzbPaglKW4o",
+      "tags": ["striking", "elbow"],
+      "japaneseName": "Age-Empi-Uchi",
+      "allowed": true
+    },
+    {
+      "name": "Elbow Thrust",
+      "videoID": "qQJ83lCYo9Ms",
+      "tags": ["striking", "elbow"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Tomahawk Elbow",
+      "videoID": "Dc79wGZhFo0",
+      "tags": ["striking", "elbow"],
+      "japaneseName": null,
+      "allowed": false
+    },
+    {
+      "name": "Superman Elbow",
+      "videoID": "Vx84fP2Tgz4",
+      "tags": ["striking", "elbow"],
+      "japaneseName": null,
+      "allowed": false
+    },
+
+    {
+      "name": "Spinning Back Elbow",
+      "videoID": "wjrxwXZzKaU",
+      "tags": ["striking", "elbow"],
+      "japaneseName": "Ushiro-Empi-Uchi",
+      "allowed": true
+    },
+
+    {
+      "name": "Standard Knee",
+      "videoID": "jicqUrz66gs",
+      "tags": ["striking", "knee"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Flying Knee",
+      "videoID": "Fl7WlI1opxc",
+      "tags": ["striking", "knee"],
+      "japaneseName": "Tobi-Mae-Hiza-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Front Knee",
+      "videoID": "sERtk-89xmI",
+      "tags": ["striking", "knee"],
+      "japaneseName": "Mae-Hiza-Geri",
+      "allowed": true
+    },
+    {
+      "name": "Long Knee",
+      "videoID": "gLt42aJAAQQ",
+      "tags": ["striking", "knee"],
+      "japaneseName": null,
+      "allowed": true
+    },
+    {
+      "name": "Round Knee",
+      "videoID": "Kf43GBqnX9I",
+      "tags": ["striking", "knee"],
+      "japaneseName": "Mawashi-Hiza-Geri",
+      "allowed": true
     }
   ]
   
