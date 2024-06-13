@@ -602,7 +602,7 @@
     "allowed": true
   },
   {
-    "name": "Shoulder Throw",
+    "name": "Arm Throw",
     "videoID": "wx6ewN6-b4Y",
     "tags": [
       "wrestling",
@@ -749,7 +749,7 @@
     "allowed": true
   },
   {
-    "name": "Headlock Throw",
+    "name": "Headlock",
     "videoID": "psK7B6OHRfg",
     "tags": [
       "wrestling",
@@ -917,6 +917,16 @@
       "throw"
     ],
     "japaneseName": "Kubi-Nage",
+    "allowed": true
+  },
+  {
+    "name": "Seatbelt Toss",
+    "videoID": "https://www.youtube.com/watch?v=7LcTzACQ7Lo",
+    "tags": [
+      "wrestling",
+      "throw"
+    ],
+    "japaneseName": null,
     "allowed": true
   }
 ]
