@@ -442,16 +442,6 @@
     "allowed": true
   },
   {
-    "name": "Scorpion Kick",
-    "videoID": "ztQVrumCH6g",
-    "tags": [
-      "striking",
-      "kick"
-    ],
-    "japaneseName": null,
-    "allowed": true
-  },
-  {
     "name": "Tornado Kick",
     "videoID": "JrUeTiTAkWw",
     "tags": [
@@ -523,7 +513,7 @@
   },
   {
     "name": "Elbow Thrust",
-    "videoID": "qQJ83lCYo9Ms",
+    "videoID": "qQJ83lCYo9M",
     "tags": [
       "striking",
       "elbow"
@@ -612,8 +602,8 @@
     "allowed": true
   },
   {
-    "name": "One Hand Shoulder Throw",
-    "videoID": "https://www.youtube.com/watch?v=wx6ewN6-b4",
+    "name": "Shoulder Throw",
+    "videoID": "wx6ewN6-b4Y",
     "tags": [
       "wrestling",
       "throw"
@@ -623,7 +613,7 @@
   },
   {
     "name": "Fireman's Carry",
-    "videoID": "https://www.youtube.com/watch?v=Kth0Uqo5ygY",
+    "videoID": "Kth0Uqo5ygY",
     "tags": [
       "wrestling",
       "throw",
@@ -634,7 +624,7 @@
   },
   {
     "name": "Ankle Pick",
-    "videoID": "https://www.youtube.com/watch?v=FfCZQXZ6eqY",
+    "videoID": "FfCZQXZ6eqY",
     "tags": [
       "wrestling",
       "throw",
@@ -645,7 +635,7 @@
   },
   {
     "name": "Double Leg",
-    "videoID": "https://www.youtube.com/watch?v=wxNAEByjOoA",
+    "videoID": "wxNAEByjOoA",
     "tags": [
       "wrestling",
       "throw",
@@ -656,7 +646,7 @@
   },
   {
     "name": "Scoop Throw",
-    "videoID": "https://www.youtube.com/watch?v=M-xh8I1aktg",
+    "videoID": "M-xh8I1aktg",
     "tags": [
       "wrestling",
       "throw"
@@ -666,7 +656,7 @@
   },
   {
     "name": "Corner Drop",
-    "videoID": "https://www.youtube.com/watch?v=PJKTEArNuK8",
+    "videoID": "PJKTEArNuK8",
     "tags": [
       "wrestling",
       "throw"
@@ -676,7 +666,7 @@
   },
   {
     "name": "Body Drop",
-    "videoID": "https://www.youtube.com/watch?v=M1g8eiVV_zw",
+    "videoID": "M1g8eiVV_zw",
     "tags": [
       "wrestling",
       "throw",
@@ -687,7 +677,7 @@
   },
   {
     "name": "Floating Drop",
-    "videoID": "https://www.youtube.com/watch?v=DXvEwIlKNco",
+    "videoID": "DXvEwIlKNco",
     "tags": [
       "wrestling",
       "throw"
@@ -697,7 +687,7 @@
   },
   {
     "name": "Single Leg",
-    "videoID": "https://www.youtube.com/watch?v=U8LafxIE4UE",
+    "videoID": "U8LafxIE4UE",
     "tags": [
       "wrestling",
       "throw",
@@ -708,7 +698,7 @@
   },
   {
     "name": "High Crotch",
-    "videoID": "https://www.youtube.com/watch?v=RFadvGJq0nM",
+    "videoID": "RFadvGJq0nM",
     "tags": [
       "wrestling",
       "throw",
@@ -719,7 +709,7 @@
   },
   {
     "name": "Powerbomb",
-    "videoID": "https://www.youtube.com/watch?v=tIgzdfc3LOM",
+    "videoID": "tIgzdfc3LOM",
     "tags": [
       "wrestling",
       "throw",
@@ -730,7 +720,7 @@
   },
   {
     "name": "Hip Throw",
-    "videoID": "https://www.youtube.com/watch?v=kd3_qEHdnsMs",
+    "videoID": "ZcJ8Im2oFBk",
     "tags": [
       "wrestling",
       "throw"
@@ -740,7 +730,7 @@
   },
   {
     "name": "Spring Throw",
-    "videoID": "https://www.youtube.com/watch?v=teAv2mejQ6U",
+    "videoID": "teAv2mejQ6U",
     "tags": [
       "wrestling",
       "throw"
@@ -750,7 +740,7 @@
   },
   {
     "name": "Sweeping Hip Throw",
-    "videoID": "https://www.youtube.com/watch?v=J23ai6yIaIE",
+    "videoID": "J23ai6yIaIE",
     "tags": [
       "wrestling",
       "throw"
@@ -760,7 +750,7 @@
   },
   {
     "name": "Headlock Throw",
-    "videoID": "https://www.youtube.com/watch?v=psK7B6OHRfg",
+    "videoID": "psK7B6OHRfg",
     "tags": [
       "wrestling",
       "throw"
@@ -770,7 +760,7 @@
   },
   {
     "name": "Floating Thow",
-    "videoID": "https://www.youtube.com/watch?v=XwQxkYaeEmk",
+    "videoID": "XwQxkYaeEmk",
     "tags": [
       "wrestling",
       "throw"
@@ -780,7 +770,7 @@
   },
   {
     "name": "Backwards Throw",
-    "videoID": "https://www.youtube.com/watch?v=PWVuQNgCwmA",
+    "videoID": "PWVuQNgCwmA",
     "tags": [
       "wrestling",
       "throw"
@@ -790,7 +780,7 @@
   },
   {
     "name": "Overhead Throw",
-    "videoID": "https://www.youtube.com/watch?v=Kz5feDY3eE8",
+    "videoID": "Kz5feDY3eE8",
     "tags": [
       "wrestling",
       "throw"
@@ -800,7 +790,7 @@
   },
   {
     "name": "Riceball Throw",
-    "videoID": "https://www.youtube.com/watch?v=TmTWgrmViZc",
+    "videoID": "TmTWgrmViZc",
     "tags": [
       "wrestling",
       "throw"
@@ -810,7 +800,7 @@
   },
   {
     "name": "Circle Throw",
-    "videoID": "https://www.youtube.com/watch?v=cPU8c6smcSo",
+    "videoID": "cPU8c6smcSo",
     "tags": [
       "wrestling",
       "throw"
@@ -820,7 +810,7 @@
   },
   {
     "name": "Rear Throw",
-    "videoID": "https://www.youtube.com/watch?v=Fgi9b8DJ5sQ",
+    "videoID": "Fgi9b8DJ5sQ",
     "tags": [
       "wrestling",
       "throw"
@@ -830,18 +820,18 @@
   },
   {
     "name": "Scissors Takedown",
-    "videoID": "https://www.youtube.com/watch?v=OR-HGHnarYc",
+    "videoID": "OR-HGHnarYc",
     "tags": [
       "wrestling",
       "throw",
       "takedown"
     ],
     "japaneseName": "Kani-Basami",
-    "allowed": false
+    "allowed": true
   },
   {
     "name": "Outer Wraparound",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "lNgIi4s1ZXc",
     "tags": [
       "wrestling",
       "throw"
@@ -851,7 +841,7 @@
   },
   {
     "name": "Valley Drop",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "ifq2___ZjPE",
     "tags": [
       "wrestling",
       "throw"
@@ -861,7 +851,7 @@
   },
   {
     "name": "Inner Wraparound",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "5BowcjduxVc",
     "tags": [
       "wrestling",
       "throw"
@@ -871,7 +861,7 @@
   },
   {
     "name": "Floating Technique",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "tYjrQBy8zVk",
     "tags": [
       "wrestling",
       "throw"
@@ -881,7 +871,7 @@
   },
   {
     "name": "Side Drop",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "s_1bmHTKFH0",
     "tags": [
       "wrestling",
       "throw"
@@ -891,7 +881,7 @@
   },
   {
     "name": "Side Separation",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "cL0THzMI-h0",
     "tags": [
       "wrestling",
       "throw"
@@ -901,7 +891,7 @@
   },
   {
     "name": "Arm Reversal",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "wxLrE5pfcaQ",
     "tags": [
       "wrestling",
       "throw"
@@ -911,7 +901,7 @@
   },
   {
     "name": "Side Circle Throw",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "1uc_RDH3pzg",
     "tags": [
       "wrestling",
       "throw"
@@ -921,7 +911,7 @@
   },
   {
     "name": "Neck Throw",
-    "videoID": "https://www.youtube.com/watch?v=lNgIi4s1ZXc",
+    "videoID": "F-4fyNwx52w",
     "tags": [
       "wrestling",
       "throw"

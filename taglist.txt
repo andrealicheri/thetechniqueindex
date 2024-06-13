@@ -7,28 +7,10 @@ Here's a tag guideline:
 
 
 
-
-    Hikikomi gaeshi (引込返): Pulling in reversal
-    Sumi gaeshi (隅返): Corner reversal
-    Tawara gaeshi (俵返): Rice bag reversal throw
-    Tomoe nage (巴投): Circle throw
-    Ura nage (裏投): Rear throw
-    Daki wakare (抱分): High separation
-    Hane makikomi (跳巻込): Springing wraparound
-    Harai makikomi (払巻込): Hip sweep wraparound
-    Kani basami (蟹挟): Crab or scissors throw. (Forbidden in competition.)
-    Kawazu gake (河津掛): One-leg entanglement. (Forbidden in competition.)
-    Osoto makikomi (大外巻込): Big outer wraparound
-    Soto makikomi (外巻込): Outer wraparound
-    Tani otoshi (谷落): Valley drop
-    Uchi makikomi (内巻込): Inner wraparound
-    Uchi mata makikomi (内股巻込): Inner thigh wraparound
-    Uki waza (浮技): Floating technique
-    Yoko gake (横掛): Side prop
-    Yoko guruma (横車): Side wheel
-    Yoko otoshi (横落): Side drop
-    Yoko wakare (横分): Side separation
-    Tama guruma (球車):Jade wheel
-    Ude gaeshi (腕返): Arm reversal
-    Yoko Tomoe Nage (横巴投): Side circle throw
-    Kubi Nage: Neck throw
+Seatbelt Toss
+Shoulder Roll
+Arm throw
+Split Step
+Duck Under Lift
+Leg Trip
+Sag Headlock
