@@ -11,8 +11,7 @@ import Layout from "../../layouts/Layout.astro";
 const { tag } = Astro.params;
 
 // Read the JSON file from the file system
-const filePath = path.resolve("./src/data/data.json");
-const jsonData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+import jsonData from "../../data/data.json"
 
 // Filter the data based on the tag
 const filteredData = jsonData.filter((item) => item.tags.includes(tag));

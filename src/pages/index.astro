@@ -7,10 +7,7 @@ import VideoCard from "../components/VideoCard.astro";
 import Layout from "../layouts/Layout.astro";
 import Introduction from "../components/Introduction.md"
 import Navbar from "../components/Navbar.astro";
-
-// Read the JSON file from the file system
-const filePath = path.resolve("./src/data/data.json");
-const jsonData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+import jsonData from "../data/data.json"
 ---
 
 <Layout title="test">
