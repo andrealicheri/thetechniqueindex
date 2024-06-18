@@ -38,7 +38,7 @@ const filteredData = jsonData.filter(
 <style>
     #grid {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
         gap: 10px;
         font-size: 1.2rem;
     }

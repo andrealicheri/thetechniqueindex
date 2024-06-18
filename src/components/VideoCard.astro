@@ -37,7 +37,7 @@ const { name, videoID, tags, japaneseName, allowed, onlyGi } = Astro.props;
     <iframe
       src={`https://youtube.com/embed/${videoID}`}
       frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;"
       allowfullscreen
       loading="lazy"
       title={name}></iframe>
@@ -66,8 +66,8 @@ const { name, videoID, tags, japaneseName, allowed, onlyGi } = Astro.props;
   }
 
   iframe {
-    width: 25vw;
-    height: 14vw;
+    width: 400px;
+    height: 225px;
     border-radius: 11px;
   }
   a {
