@@ -1,20 +1,26 @@
 ---
 // VideoCard.astro
 
-const { name, videoID, tags, japaneseName, allowed } = Astro.props;
+const { name, videoID, tags, japaneseName, allowed, onlyGi } = Astro.props;
 ---
 
 <div class="card" style={`background-color: #36454f`}>
-  {
-    japaneseName != null ? (
-      <span id="japaneseName">{japaneseName}</span>
-    ) : (
-      <span id="japaneseName" style="visibility: hidden;">
-        lol
-      </span>
-    )
-  }
-  <h2>{name}</h2>
+  {allowed === false && <span class="foul">🚫</span>}
+  {onlyGi === true && <span class="onlyGi">🥋</span>}
+
+  <span><br /></span>
+  <p>
+    <b style="font-size: 2rem">{name}</b>
+    {
+      japaneseName != null ? (
+        <span style="font-size:1rem">
+          <i>&nbsp;{japaneseName}</i> 🎌{" "}
+        </span>
+      ) : (
+        <span />
+      )
+    }
+  </p>
 
   <div class="tags">
     {
@@ -36,16 +42,6 @@ const { name, videoID, tags, japaneseName, allowed } = Astro.props;
       loading="lazy"
       title={name}></iframe>
   </div>
-
-  {
-    allowed === false && (
-      <p>
-        <b>
-          <a href="/fouls">NOT ALLOWED</a> 🚫
-        </b>
-      </p>
-    )
-  }
 </div>
 
 <style>
@@ -54,7 +50,8 @@ const { name, videoID, tags, japaneseName, allowed } = Astro.props;
     margin: 16px;
     border-radius: 8px;
     color: white;
-    border: solid 0.5px white
+    border: solid 0.5px white;
+    position: relative;
   }
   .tags {
     margin: 8px 0;
@@ -65,7 +62,7 @@ const { name, videoID, tags, japaneseName, allowed } = Astro.props;
     border-radius: 8px;
     margin-right: 8px;
     text-decoration: none;
-    border: solid 0.5px white
+    border: solid 0.5px white;
   }
 
   iframe {
@@ -80,5 +77,19 @@ const { name, videoID, tags, japaneseName, allowed } = Astro.props;
   #japaneseName {
     color: rgb(255, 255, 255);
     font-size: 1rem;
+  }
+
+  .onlyGi {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 2rem;
+  }
+
+  .foul {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    font-size: 2rem;
   }
 </style>

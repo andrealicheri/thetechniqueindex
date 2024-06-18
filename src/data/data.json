@@ -7,7 +7,8 @@
       "punch"
     ],
     "japaneseName": "Kizami-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Cross",
@@ -17,7 +18,8 @@
       "punch"
     ],
     "japaneseName": "Gyako-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Lead Hook",
@@ -27,7 +29,8 @@
       "punch"
     ],
     "japaneseName": "Kizami-Kage-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Rear Hook",
@@ -37,7 +40,8 @@
       "punch"
     ],
     "japaneseName": "Kage-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Uppercut",
@@ -47,7 +51,8 @@
       "punch"
     ],
     "japaneseName": "Age-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Overhand",
@@ -57,7 +62,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Lunge Punch",
@@ -67,7 +73,8 @@
       "punch"
     ],
     "japaneseName": "Oi-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Superman Punch",
@@ -77,7 +84,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Body Jab",
@@ -87,7 +95,8 @@
       "punch"
     ],
     "japaneseName": "Gedan-Kizami-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Switch Punch",
@@ -97,7 +106,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Superman Jab",
@@ -107,7 +117,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Haymaker",
@@ -117,7 +128,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Casting Punch",
@@ -127,7 +139,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Backfist",
@@ -137,7 +150,8 @@
       "punch"
     ],
     "japaneseName": "Uraken-Uchi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Bolo Punch",
@@ -147,7 +161,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Liver Punch",
@@ -156,8 +171,9 @@
       "striking",
       "punch"
     ],
-    "japaneseName": "Gedan-Age-Tsuki",
-    "allowed": true
+    "japaneseName": "Ura-Tsuki",
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Leopard Punch",
@@ -167,7 +183,8 @@
       "punch"
     ],
     "japaneseName": "Hiraken-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Rabbit Punch",
@@ -177,7 +194,8 @@
       "punch"
     ],
     "japaneseName": null,
-    "allowed": false
+    "allowed": false,
+    "onlyGi": false
   },
   {
     "name": "Spinning Backfist",
@@ -187,7 +205,8 @@
       "punch"
     ],
     "japaneseName": "Ushiro-Uraken-Uchi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Vertical Punch",
@@ -197,7 +216,8 @@
       "punch"
     ],
     "japaneseName": "Tate-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "One Knuckle Punch",
@@ -207,7 +227,8 @@
       "punch"
     ],
     "japaneseName": "Ippon-Ken-Tsuki",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Front Kick",
@@ -217,7 +238,8 @@
       "kick"
     ],
     "japaneseName": "Mae-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Teep Kick",
@@ -227,7 +249,8 @@
       "kick"
     ],
     "japaneseName": "Mae-Geri-Kekkomi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Axe Kick",
@@ -237,7 +260,8 @@
       "kick"
     ],
     "japaneseName": "Otoshi-Kakato-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Crescent Kick",
@@ -247,7 +271,8 @@
       "kick"
     ],
     "japaneseName": "Mikazuki-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Roundhouse Kick",
@@ -257,7 +282,8 @@
       "kick"
     ],
     "japaneseName": "Mawashi-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Side Kick",
@@ -267,7 +293,8 @@
       "kick"
     ],
     "japaneseName": "Yoko-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Back Kick",
@@ -277,7 +304,8 @@
       "kick"
     ],
     "japaneseName": "Mae-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Question Mark Kick",
@@ -287,7 +315,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Calf Kick",
@@ -297,7 +326,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Oblique Kick",
@@ -307,7 +337,8 @@
       "kick"
     ],
     "japaneseName": "Naname-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Knee Kick",
@@ -317,7 +348,8 @@
       "kick"
     ],
     "japaneseName": "Kansetsu-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Stomp Kick",
@@ -328,7 +360,8 @@
       "stomp"
     ],
     "japaneseName": "Fumakomi-Geri",
-    "allowed": false
+    "allowed": false,
+    "onlyGi": false
   },
   {
     "name": "Cartwheel Kick",
@@ -338,7 +371,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Hook Kick",
@@ -348,7 +382,8 @@
       "kick"
     ],
     "japaneseName": "Ura-Mawashi-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Kyokushin Wheel Kick",
@@ -358,7 +393,8 @@
       "kick"
     ],
     "japaneseName": "Mawashi-Kaiten-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Switch Kick",
@@ -368,7 +404,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Spinning Hook Kick",
@@ -378,7 +415,8 @@
       "kick"
     ],
     "japaneseName": "Ushiro-Ura-Mawashi-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Crane Kick",
@@ -388,7 +426,8 @@
       "kick"
     ],
     "japaneseName": "Tobi-Mae-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Sweep Kick",
@@ -399,7 +438,8 @@
       "sweep"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Up Kick",
@@ -409,7 +449,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Twist Kick",
@@ -419,7 +460,8 @@
       "kick"
     ],
     "japaneseName": "Otoshi-Mawashi-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Brazilian Kick",
@@ -429,7 +471,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Butterfly Kick",
@@ -439,7 +482,8 @@
       "kick"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Tornado Kick",
@@ -449,7 +493,8 @@
       "kick"
     ],
     "japaneseName": "Tobi-Ushiro-Mawashi-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Wheel Kick",
@@ -459,7 +504,8 @@
       "kick"
     ],
     "japaneseName": "Ushiro-Ura-Mawashi-Geri-Kekkomi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Toe Kick",
@@ -469,7 +515,8 @@
       "kick"
     ],
     "japaneseName": "Tsumasaki-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Round Elbow",
@@ -479,7 +526,8 @@
       "elbow"
     ],
     "japaneseName": "Mawashi-Empi-Uchi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Slash Elbow",
@@ -489,7 +537,8 @@
       "elbow"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Downward Elbow",
@@ -499,7 +548,8 @@
       "elbow"
     ],
     "japaneseName": "Otoshi-Empi-Uchi",
-    "allowed": false
+    "allowed": false,
+    "onlyGi": false
   },
   {
     "name": "Uppercut Elbow",
@@ -509,7 +559,8 @@
       "elbow"
     ],
     "japaneseName": "Age-Empi-Uchi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Elbow Thrust",
@@ -519,7 +570,8 @@
       "elbow"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Tomahawk Elbow",
@@ -529,7 +581,8 @@
       "elbow"
     ],
     "japaneseName": null,
-    "allowed": false
+    "allowed": false,
+    "onlyGi": false
   },
   {
     "name": "Superman Elbow",
@@ -539,7 +592,8 @@
       "elbow"
     ],
     "japaneseName": null,
-    "allowed": false
+    "allowed": false,
+    "onlyGi": false
   },
   {
     "name": "Spinning Back Elbow",
@@ -549,7 +603,8 @@
       "elbow"
     ],
     "japaneseName": "Ushiro-Empi-Uchi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Standard Knee",
@@ -559,7 +614,8 @@
       "knee"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Flying Knee",
@@ -569,7 +625,8 @@
       "knee"
     ],
     "japaneseName": "Tobi-Mae-Hiza-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Front Knee",
@@ -579,7 +636,8 @@
       "knee"
     ],
     "japaneseName": "Mae-Hiza-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Long Knee",
@@ -589,7 +647,8 @@
       "knee"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Round Knee",
@@ -599,7 +658,8 @@
       "knee"
     ],
     "japaneseName": "Mawashi-Hiza-Geri",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Arm Throw",
@@ -609,7 +669,8 @@
       "throw"
     ],
     "japaneseName": "Ippon-Seoi-Nage",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Fireman's Carry",
@@ -620,7 +681,8 @@
       "takedown"
     ],
     "japaneseName": "Kata-Guruma",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Ankle Pick",
@@ -631,7 +693,8 @@
       "takedown"
     ],
     "japaneseName": "Kibisu-Gaeshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Double Leg",
@@ -642,7 +705,8 @@
       "takedown"
     ],
     "japaneseName": "Morote-Gari",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Scoop Throw",
@@ -652,7 +716,8 @@
       "throw"
     ],
     "japaneseName": "Sukui-Nage",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Corner Drop",
@@ -662,7 +727,8 @@
       "throw"
     ],
     "japaneseName": "Sumi-Otoshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Body Drop",
@@ -673,7 +739,8 @@
       "takedown"
     ],
     "japaneseName": "Tai-Otoshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Floating Drop",
@@ -683,7 +750,8 @@
       "throw"
     ],
     "japaneseName": "Uki-Otoshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Single Leg",
@@ -694,7 +762,8 @@
       "takedown"
     ],
     "japaneseName": "Kuchiki-Taoshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "High Crotch",
@@ -705,7 +774,8 @@
       "takedown"
     ],
     "japaneseName": "Te-Guruma",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Powerbomb",
@@ -716,7 +786,8 @@
       "takedown"
     ],
     "japaneseName": "Daki-Age",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Hip Throw",
@@ -726,7 +797,8 @@
       "throw"
     ],
     "japaneseName": "O-Goshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Spring Throw",
@@ -736,7 +808,8 @@
       "throw"
     ],
     "japaneseName": "Hane-Goshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Sweeping Hip Throw",
@@ -746,7 +819,8 @@
       "throw"
     ],
     "japaneseName": "Harai-Goshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Headlock",
@@ -756,7 +830,8 @@
       "throw"
     ],
     "japaneseName": "Koshi-Guruma",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Floating Thow",
@@ -766,7 +841,8 @@
       "throw"
     ],
     "japaneseName": "Uki-Goshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Backwards Throw",
@@ -776,7 +852,8 @@
       "throw"
     ],
     "japaneseName": "Ushiro-Goshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Overhead Throw",
@@ -786,7 +863,8 @@
       "throw"
     ],
     "japaneseName": "Sumi-Gaeshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Riceball Throw",
@@ -796,7 +874,8 @@
       "throw"
     ],
     "japaneseName": "Tawara-Gaeshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Circle Throw",
@@ -806,7 +885,8 @@
       "throw"
     ],
     "japaneseName": "Tomoe-Nage",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Rear Throw",
@@ -816,7 +896,8 @@
       "throw"
     ],
     "japaneseName": "Ura-Nage",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Scissors Takedown",
@@ -827,7 +908,8 @@
       "takedown"
     ],
     "japaneseName": "Kani-Basami",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Outer Wraparound",
@@ -837,7 +919,8 @@
       "throw"
     ],
     "japaneseName": "Soto-Makikomi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Valley Drop",
@@ -847,7 +930,8 @@
       "throw"
     ],
     "japaneseName": "Tani-Otoshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Inner Wraparound",
@@ -857,7 +941,8 @@
       "throw"
     ],
     "japaneseName": "Uchi-Makikomi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Floating Technique",
@@ -867,7 +952,8 @@
       "throw"
     ],
     "japaneseName": "Uki-Waza",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Side Drop",
@@ -877,7 +963,8 @@
       "throw"
     ],
     "japaneseName": "Yoko-Otoshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Side Separation",
@@ -887,7 +974,8 @@
       "throw"
     ],
     "japaneseName": "Yoko-Wakare",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Arm Reversal",
@@ -897,7 +985,8 @@
       "throw"
     ],
     "japaneseName": "Ude-Gaeshi",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Side Circle Throw",
@@ -907,7 +996,8 @@
       "throw"
     ],
     "japaneseName": "Yoko-Tomoe-Nage",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Neck Throw",
@@ -917,16 +1007,228 @@
       "throw"
     ],
     "japaneseName": "Kubi-Nage",
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
   },
   {
     "name": "Seatbelt Toss",
-    "videoID": "https://www.youtube.com/watch?v=7LcTzACQ7Lo",
+    "videoID": "7LcTzACQ7Lo",
     "tags": [
       "wrestling",
       "throw"
     ],
     "japaneseName": null,
-    "allowed": true
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Headbutt",
+    "videoID": "EtGlxd6YCkc",
+    "tags": [
+      "striking",
+      "headbutt"
+    ],
+    "japaneseName": "Atama-Uchi",
+    "allowed": false,
+    "onlyGi": false
+  },
+  {
+    "name": "Belt Drop",
+    "videoID": "ff8U2TVZIYI",
+    "tags": [
+      "wrestling",
+      "throw"
+    ],
+    "japaneseName": "Obi-Otoshi",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Leg Wheel",
+    "videoID": "ff8U2TVZIYI",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Ashi-Guruma",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Forward Sweep",
+    "videoID": "Ckv5xkIoWUk",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "De-Ashi-Harai",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Pull Sweep",
+    "videoID": "gGPXvWL8VbE",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Harai-Tsurikomi-Ashi",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Knee Wheel",
+    "videoID": "65KL5jX9zkQ",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Hiza-Guruma",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Small Outside Hook",
+    "videoID": "2pG-ParF5Mo",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Ko-Soto-Gake",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Small Outside Sweep",
+    "videoID": "snemIZSL4C0",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Ko-Soto-Gari",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Small Inside Sweep",
+    "videoID": "Bl1RTJURuPA",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Ko-Uchi-Gari",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Wheel Sweep",
+    "videoID": "qI51n6EDdz8",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Sliding Sweep",
+    "videoID": "a0uRf5nj1gg",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Okuri-Ashi-Harai",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Foot Sweep",
+    "videoID": "Ck4D6FfDDyc",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Ashi-Harai",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Outside Sweep",
+    "videoID": "zocxMUXlfwQ",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "O-Soto-Gari",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Outside Wheel",
+    "videoID": "92KbCm6pQeI",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "O-Soto-Guruma",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Outside Drop",
+    "videoID": "S4c5CozeMPY",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "O-Soto-Otoshi",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Inside Sweep",
+    "videoID": "epKEkNLeiRw",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "O-Uchi-Gari",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Ankle Sweep",
+    "videoID": "o-Bfy--WJxM",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Sasae-Tsurikomi-Ashi",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Inner Thigh",
+    "videoID": "DJ6Rs3Snjj4",
+    "tags": [
+      "wrestling",
+      "sweep"
+    ],
+    "japaneseName": "Uchi-Mata",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Leg Trip",
+    "videoID": "h2yZrzhtL2Q",
+    "tags": [
+      "wrestling",
+      "sweep",
+      "takedown"
+    ],
+    "japaneseName": "Kawazu-Gake",
+    "allowed": true,
+    "onlyGi": false
   }
 ]
