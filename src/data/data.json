@@ -1230,5 +1230,203 @@
     "japaneseName": "Kawazu-Gake",
     "allowed": true,
     "onlyGi": false
+  },
+  {
+    "name": "Scarf Hold",
+    "videoID": "1gfktJAuixw",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Kesa-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Twister Side Control",
+    "videoID": "oXzrusNRq70",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Kuzure-Kesa-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Reverse Scarf Hold",
+    "videoID": "0r8H-c5RJ2k",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Ushiro-Kesa-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "North-South",
+    "videoID": "cans383if9Q",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Kami-Shiho-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Modified North-South",
+    "videoID": "_aUPojhXqhI",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Kuzure-Kami-Shiho-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Full Mount",
+    "videoID": "r2GvPjrr2p0",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Tate-Shiho-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Side Control",
+    "videoID": "nDbHQPBvQvQ",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Yoko-Shiho-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Back Hold",
+    "videoID": "MWvZhyoD7EI",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Ura-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Floating Hold",
+    "videoID": "WoQs9Zyq7N4",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Uki-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Quarter Nelsom",
+    "videoID": "n6YbDRGSXHg",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Half Nelson",
+    "videoID": "6BLjFOjKos0",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "3/4 Nelson",
+    "videoID": "8_H2V9wa1as",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Inside Cradle",
+    "videoID": "pxX3Wi3raMk",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Far-Side Cradle",
+    "videoID": "9QElNGiJerQ",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Leg Ride",
+    "videoID": "g6IXD60nyD8",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Knee On Belly",
+    "videoID": "NyzW4WqjqPc",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Power Half Nelson",
+    "videoID": "oHwFi-ffWwQ",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Back Mount",
+    "videoID": "Ixrw7RXEL6E",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
   }
 ]
