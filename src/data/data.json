@@ -1881,8 +1881,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Kneebar",
     "videoID": "MZM0W9yZCXs",
@@ -1894,8 +1893,7 @@
     "japaneseName": "Hiza-Juji-Gatame",
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Straight Ankle Lock",
     "videoID": "8an2pCc0IBY",
@@ -1907,8 +1905,7 @@
     "japaneseName": "Akiresuken-Gatame",
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Achilles Lock",
     "videoID": "sHCQT8l6jWY",
@@ -1920,8 +1917,7 @@
     "japaneseName": "Ashi-Hishigi",
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Toe Hold",
     "videoID": "2xlKKmi9MpA",
@@ -1933,8 +1929,7 @@
     "japaneseName": "Ashi-Dori-Garami",
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Heel Hook",
     "videoID": "KPd6Jg3pkYc",
@@ -1946,8 +1941,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Inverted Heel Hook",
     "videoID": "Ej8dafoYKfk",
@@ -1959,8 +1953,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Inside Heel Hook",
     "videoID": "w-W0ug7Edag",
@@ -1972,8 +1965,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Calf Slicer",
     "videoID": "2ZLh7ETdDAU",
@@ -1985,8 +1977,7 @@
     "japaneseName": "Hiza-Hishigi",
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Estima Lock",
     "videoID": "8Wum2xWu8b8",
@@ -1998,8 +1989,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Leg Entanglement",
     "videoID": "ZC8EbfLmO9o",
@@ -2023,8 +2013,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }
-  ,
+  },
   {
     "name": "Fulcrum Choke",
     "videoID": "yuG-I4gHgsw",
@@ -2036,7 +2025,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }  ,
+  },
   {
     "name": "Can Opener",
     "videoID": "98iW2ahMPK0",
@@ -2048,7 +2037,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }  ,
+  },
   {
     "name": "Crucifix Crank",
     "videoID": "p3qI6rjTYKQ",
@@ -2060,7 +2049,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }  ,
+  },
   {
     "name": "Twister",
     "videoID": "-9iPS9n4qdU",
@@ -2072,7 +2061,7 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
-  }  ,
+  },
   {
     "name": "Boston Crab",
     "videoID": "iMigFMAuJ-Y",
@@ -2184,6 +2173,203 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
+  },
+  {
+    "name": "Soccer Kick",
+    "videoID": "jf-mew1wnuA",
+    "tags": [
+      "striking",
+      "stomp"
+    ],
+    "japaneseName": null,
+    "allowed": false,
+    "onlyGi": false
+  },
+  {
+    "name": "Closed Guard",
+    "videoID": "PVUND6RYT9g",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Half Guard",
+    "videoID": "jbxv4EIcRlE",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Butterfly Guard",
+    "videoID": "MXcQfCIh7n4",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Collar and Sleeve Guard",
+    "videoID": "xEUf8kxcuBU",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Spider Guard",
+    "videoID": "_RhSvQPI5jM",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "de la Riva Guard",
+    "videoID": "IEJTtbstxIY",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Reverse de la Riva Guard",
+    "videoID": "LNVY-_dqEjQ",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "X Guard",
+    "videoID": "DGiDB6vI670",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "SLX Guard",
+    "videoID": "BKX0OjWStzc",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Lapel Guard",
+    "videoID": "541H63KeHD4",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Deep Half Guard",
+    "videoID": "LkX4oAIZ48k",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Seated Half Guard",
+    "videoID": "f6x9rGu9aGo",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Z Guard",
+    "videoID": "x7GmTzRF2NU",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Rubber Guard",
+    "videoID": "RJ7Iutti8cY",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Octopus Guard",
+    "videoID": "PwzqqnWESxw",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "50/50 Guard",
+    "videoID": "fVPgnA0iAII",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Turtle",
+    "videoID": "hP7EmS47l0E",
+    "tags": [
+      "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
   }
-  
 ]
