@@ -2362,10 +2362,65 @@
     "onlyGi": false
   },
   {
-    "name": "Turtle",
-    "videoID": "hP7EmS47l0E",
+    "name": "High Guard",
+    "videoID": "INqzwNht_nk",
     "tags": [
       "grappling",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Philly Shell",
+    "videoID": "_cghiUz4NgI",
+    "tags": [
+      "striking",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Peekaboo Guard",
+    "videoID": "fBjXjBLJYKs",
+    "tags": [
+      "striking",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Low Guard",
+    "videoID": "5HoJqYXGBCM",
+    "tags": [
+      "striking",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Cross Guard",
+    "videoID": "MGJD96KUuc0",
+    "tags": [
+      "striking",
+      "guard"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Long Guard",
+    "videoID": "Ymn4UEpHUjk",
+    "tags": [
+      "striking",
       "guard"
     ],
     "japaneseName": null,
