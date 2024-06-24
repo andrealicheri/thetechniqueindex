@@ -1428,5 +1428,762 @@
     "japaneseName": null,
     "allowed": true,
     "onlyGi": false
+  },
+  {
+    "name": "Trunk Choke",
+    "videoID": "D_0fFcoIbvY",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Do-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Reverse Cross Choke",
+    "videoID": "t3tQriIPdlI",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Gyako-Juji-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Normal Cross Choke",
+    "videoID": "k2cHry9HByQ",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Nami-Juji-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Half Cross Choke",
+    "videoID": "3VZVUAmiMD8",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Kata-Juji-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Rear Naked Choke",
+    "videoID": "LppnEfRoFIM",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Hadaka-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Wing Choke",
+    "videoID": "Ev4wmr2-2Gs",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Kata-Ha-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "One-Hand Choke",
+    "videoID": "cHeIs-fSqwE",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Kata-Te-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Lapel Choke",
+    "videoID": "EiqyoVcIAi8",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Okuri-Eri-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Two-Hand Choke",
+    "videoID": "-RHC4V7TQiY",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Ryo-Te-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Triangle Choke",
+    "videoID": "4mDKZOaTzBM",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Sankaku-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Ezekiel Choke",
+    "videoID": "4XLqgU-Hof8",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Sode-Guruma-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Thrust Choke",
+    "videoID": "dKKpnD3eLcY",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Tsukkomi-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Crucifix",
+    "videoID": "17sFtiojdIs",
+    "tags": [
+      "wrestling",
+      "pin"
+    ],
+    "japaneseName": "Jigoku-Jime",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Clock Choke",
+    "videoID": "-STcon8avQY",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Koshi-Jime",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Arm Triangle Choke",
+    "videoID": "_0p90C3-62A",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Kata-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "North-South Choke",
+    "videoID": "_AyReBI9c6U",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": "Kami-Shiho-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Anaconda Choke",
+    "videoID": "WC_CAFTXD4s",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "D'Arce Choke",
+    "videoID": "LFCzTt4TOJU",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Guillotine",
+    "videoID": "nCCVE3zQfqc",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Bow and Arrow Choke",
+    "videoID": "bBk02m4QF5c",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Baseball Bat Choke",
+    "videoID": "EWfS81DZx4A",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Loop Choke",
+    "videoID": "mHQu6iFiuKk",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Peruvian Necktie",
+    "videoID": "ZG4nalSL6kw",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Japanese Necktie",
+    "videoID": "mJcrR4Xttsg",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Marcelotine",
+    "videoID": "2ortF7sjrrc",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Bulldog Choke",
+    "videoID": "llz5rCYPrsE",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Gogoplata",
+    "videoID": "9gUzj39Kh0s",
+    "tags": [
+      "grappling",
+      "choke"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Americana",
+    "videoID": "WLqWGE4YgT8",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Garami",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Leg Armbar",
+    "videoID": "bWgvmPL6OVE",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Ashi-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Side-Extended Armbar",
+    "videoID": "f1BwochCXIc",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Hara-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Knee Armbar",
+    "videoID": "lzsSyeQcZBU",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Hiza-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Armbar",
+    "videoID": "Dq8nahFOnI4",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Juji-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Three-Corner Armlock",
+    "videoID": "WefAmW4azhk",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Sankaku-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Hand Armlock",
+    "videoID": "PSgn9TBgwfc",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Te-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Reverse Armbar",
+    "videoID": "iv-Wb_EUs6Y",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Ude-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Fujiwara Armbar",
+    "videoID": "5eUcKUAPRN4",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Ude-Hishigi-Waki-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Omoplata",
+    "videoID": "LVy4tGv5Fk4",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": "Sankaku-Garami",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Double Armbar",
+    "videoID": "AysaxvQaRio",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Flying Armbar",
+    "videoID": "22WhO6ejZtY",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Bicep Slicer",
+    "videoID": "2T_J-LtII6o",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
   }
+  ,
+  {
+    "name": "Kneebar",
+    "videoID": "MZM0W9yZCXs",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": "Hiza-Juji-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Straight Ankle Lock",
+    "videoID": "8an2pCc0IBY",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": "Akiresuken-Gatame",
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Achilles Lock",
+    "videoID": "sHCQT8l6jWY",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": "Ashi-Hishigi",
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Toe Hold",
+    "videoID": "2xlKKmi9MpA",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": "Ashi-Dori-Garami",
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Heel Hook",
+    "videoID": "KPd6Jg3pkYc",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Inverted Heel Hook",
+    "videoID": "Ej8dafoYKfk",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Inside Heel Hook",
+    "videoID": "w-W0ug7Edag",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Calf Slicer",
+    "videoID": "2ZLh7ETdDAU",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": "Hiza-Hishigi",
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Estima Lock",
+    "videoID": "8Wum2xWu8b8",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Leg Entanglement",
+    "videoID": "ZC8EbfLmO9o",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": "Ashi-Garami",
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Banana Split",
+    "videoID": "E2MZRD_RObs",
+    "tags": [
+      "grappling",
+      "lock",
+      "leg_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }
+  ,
+  {
+    "name": "Fulcrum Choke",
+    "videoID": "yuG-I4gHgsw",
+    "tags": [
+      "grappling",
+      "lock",
+      "spine_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }  ,
+  {
+    "name": "Can Opener",
+    "videoID": "98iW2ahMPK0",
+    "tags": [
+      "grappling",
+      "lock",
+      "spine_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }  ,
+  {
+    "name": "Crucifix Crank",
+    "videoID": "p3qI6rjTYKQ",
+    "tags": [
+      "grappling",
+      "lock",
+      "spine_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }  ,
+  {
+    "name": "Twister",
+    "videoID": "-9iPS9n4qdU",
+    "tags": [
+      "grappling",
+      "lock",
+      "spine_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }  ,
+  {
+    "name": "Boston Crab",
+    "videoID": "iMigFMAuJ-Y",
+    "tags": [
+      "grappling",
+      "lock",
+      "spine_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Wristlock",
+    "videoID": "fdZIivJndxw",
+    "tags": [
+      "grappling",
+      "lock",
+      "arm_lock"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Bear Hug",
+    "videoID": "3LoG9Q3T-i4",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Collar Tie",
+    "videoID": "TrU9NVUGzFo",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Overhook",
+    "videoID": "DfUHvTQpzCg",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Underhook",
+    "videoID": "tIZmo7UXF3A",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Pinch-Grip Tie",
+    "videoID": "p4cnbAbJg48",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  },
+  {
+    "name": "Symmetric Grips",
+    "videoID": "xYQDQXLzKHc",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": "Ai-Yotsu",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Asymmetric Grips",
+    "videoID": "JBSsWN8E2qs",
+    "tags": [
+      "wrestling",
+      "clinch_hold"
+    ],
+    "japaneseName": "Kenka-Yotsu",
+    "allowed": true,
+    "onlyGi": true
+  },
+  {
+    "name": "Foot Stomp",
+    "videoID": "1SAc-sSbgcQ",
+    "tags": [
+      "striking",
+      "stomp"
+    ],
+    "japaneseName": null,
+    "allowed": true,
+    "onlyGi": false
+  }
+  
 ]
